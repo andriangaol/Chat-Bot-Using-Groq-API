@@ -1,5 +1,3 @@
-Berikut adalah pembaruan README yang mencakup catatan mengenai konfigurasi dan saran untuk perubahan konfigurasi:
-
 # Chat-Bot-Using-Groq-API
 
 Chatbot ini dibangun menggunakan API Groq dan diintegrasikan dengan Telegram untuk memberikan pengalaman interaktif kepada pengguna. Chatbot ini mampu menjawab berbagai pertanyaan dan memberikan informasi secara cepat dan akurat melalui aplikasi Telegram.
